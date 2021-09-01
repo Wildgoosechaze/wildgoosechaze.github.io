@@ -1,0 +1,79 @@
+header { color: khaki;
+    font-family: Helvetica, sans-serif;
+    font-size: 100px;
+    font-weight: bold;
+    text-align: center;
+    background-image: url('../images/pattern.webp');
+    position: static;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 60px 0;
+}
+
+h2 {font-family: helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+
+}
+.brushes h2{
+    background-color: mediumspringgreen;
+}
+.frames h2{
+    background-color: lightcoral;
+}
+.paint h2{
+    background-color: skyblue;
+}
+
+h3 {
+    font-family: helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color:black;    
+}
+p {
+font-family: helvetica;
+font-size:larger ;
+}
+
+strong {
+    color: blue;
+}
+
+img {
+    box-shadow: midnightblue;
+    border-radius: 10%;
+    height: 400px;
+    width: 400px;
+}
+footer {
+    font-family: cursive;
+    color: lightsalmon  ;
+    font-size: x-large;
+    background-color: black;
+}
+
+/* no clue what this does yet 9/1/21 
+@media only screen and (max-width: 1200px) {
+    #brush {
+        padding-top: 10px;
+    }
+    header {
+        padding-top: 5px;
+        height: 20%;
+        font-size: 60px;
+    } 
+}
+
+@media only screen and (max-width: 725px) {
+    #brush {
+        padding-top: 10px;
+    } 
+   header {
+        padding-top: 10px;
+        height: 10%;
+        font-size: 40px;
+    } 
+} */
